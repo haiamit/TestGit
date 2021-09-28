@@ -1,0 +1,24 @@
+CL MB
+PM Girish
+BPM Benjamin
+FA Vishwanath Koushik, Saraswati rajasekharan
+
+Lead Prakash Channa Team A
+Narayana Vempati Scrum master Team B
+
+Sasishar maduranath Test lead
+
+
+
+SSR
+
+PM Rajesh
+BA Theophile
+Praveen Venkataraju
+Apoorva Pingale
+
+Tech lead Ashish Kumar
+Vinay Bhardwaj QA lead
+Application Architect Manish Minni
+1 sec
+!FR03_eLIMS_NG_SSR <eLIMSNGSSR@eurofins.com>
